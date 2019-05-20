@@ -1,0 +1,8 @@
+.header {
+  height: 65px;
+  line-height: 65px;
+  color: #fff;
+  font-size: 16px;
+  background-color: red;
+  text-align: center;
+}

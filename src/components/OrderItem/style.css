@@ -1,0 +1,48 @@
+.order-item {
+	padding: 5px;
+}
+.order-item-box {
+	display: flex;
+}
+.order-item-pic {
+	width: 80px;
+	margin-right: 10px;
+}
+.order-item-cont {
+	margin-right: auto;
+}
+.order-item-cont h2 {
+	height: 20px;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.order-item-cont p {
+	line-height: 18px;
+	padding: 4px 0;
+	color: #999;
+	font-size: 14px;
+}
+.order-item-cont p.order-item-price {
+	padding-left: 5px;
+	margin-top: 10px;
+}
+.order-item-comment {
+	width: 100%;
+}
+.order-item-btns {
+	align-self: flex-end;
+}
+.order-item-comment {
+	margin-top: 5px;
+}
+.order-item-comment textarea {
+	display: block;
+	width: calc(100% - 10px);
+	height: 60px;
+	padding: 4px;
+	border: 1px solid #999;
+}
+.color-red {
+	color: red;
+}

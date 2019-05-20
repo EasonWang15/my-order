@@ -1,0 +1,29 @@
+body, h1, h2, div, p, textarea, button {
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+  border: none;
+  outline: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+.btn {
+  display: inline-block;
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+}
+.btn-grey {
+  color: #fff;
+  background-color: grey;
+}
+.btn-red {
+  color: #fff;
+  background-color: red;
+}
